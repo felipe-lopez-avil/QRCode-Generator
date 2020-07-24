@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: auto;
+  height: 380px;
+  width: 250px;
+}
+
+#qrcode {
+  border: 1px solid black;
+  height: 250px;
+}
